@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Muktha!
 
-<!--
-**mukthanjali-data/mukthanjali-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Com (Computer Applications), 2025 | MBA (Joining Soon)  
+📊 Aspiring Data Analyst passionate about transforming data into insights  
+💻 Skills: Python | SQL | Excel | Power BI | Pandas | Data Visualization  
+📈 Currently building data analysis projects and dashboards  
+📫 Reach me: mukthanjalibonala@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects Coming Soon:
+- Student Marks Analysis (Excel)
+- Sales Dashboard (Power BI)
+- Python Data Cleaning Scripts
